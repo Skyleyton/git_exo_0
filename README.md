@@ -34,3 +34,4 @@ Auteurs :
  - Julien LENORMAND
  - Dewen BIDOIS
  - Luc MAILLET
+ - Lucas XITRA
