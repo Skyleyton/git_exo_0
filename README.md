@@ -31,4 +31,8 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
+<<<<<<< HEAD
  - Dewen Bidois
+=======
+ - Julien LENORMAND
+>>>>>>> 98d6d6aceb568dca1470675f4e2602210b54ef9e
