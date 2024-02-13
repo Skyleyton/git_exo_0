@@ -33,3 +33,4 @@ Auteurs :
  - Fabien Rozar
  - Julien LENORMAND
  - Dewen BIDOIS
+ - Luc MAILLET
